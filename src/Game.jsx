@@ -250,7 +250,7 @@ export default function Game() {
         />
       )}
           <a
-      href="https://github.com/yourusername" // لینک گیت هاب خودت رو اینجا بزار
+      href="https://github.com/aidin-rezaei/Zombie-Game" // لینک گیت هاب خودت رو اینجا بزار
       target="_blank"
       rel="noopener noreferrer"
       style={{
