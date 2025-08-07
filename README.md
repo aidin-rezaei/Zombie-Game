@@ -39,7 +39,7 @@ You can try the game live at: [Your Live Demo URL](https://aidinr.ir/zombie)
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/aidin-rezaei/zombie-game.git
+   git clone https://github.com/aidin-rezaei/Zombie-Game.git
    cd zombie-game
    ```
 
