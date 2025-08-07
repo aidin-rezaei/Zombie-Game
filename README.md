@@ -32,14 +32,14 @@ This game is a first-person shooter where the player navigates a 3D environment 
 
 ## Demo
 
-You can try the game live at: [Your Live Demo URL](https://your-live-demo-url.com)
+You can try the game live at: [Your Live Demo URL](https://aidinr.ir/zombie)
 
 ## Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/zombie-game.git
+   git clone https://github.com/aidin-rezaei/Zombie-Game.git
    cd zombie-game
    ```
 
