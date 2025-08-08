@@ -72,7 +72,6 @@ You can try the game live at: [Your Live Demo URL](https://aidinr.ir/zombie)
 | Move Backward | S                  |
 | Move Left     | A                  |
 | Move Right    | D                  |
-<!-- | Look Around   | Mouse movement     | Touch drag/swipe    | -->
 | Shoot         | Mouse click        |
 
 ## Technologies
